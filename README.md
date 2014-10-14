@@ -4,7 +4,10 @@ JS + HTML site that lists the games of the day and the total number of games dur
 
 # Screenshots
 
-### Mockup 
+### Mockup 1 Postit
+![alt tag](http://www.luisgromero.com/site/wp-content/uploads/2014/10/worldcup-2014-postit-mockup.jpg)
+
+### Mockup 2 HTML
 ![alt tag](http://www.luisgromero.com/site/wp-content/uploads/2014/10/world-cup-2014-all-matches-draft-1.jpg)
 
 ### Screen 1
