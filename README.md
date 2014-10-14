@@ -1,4 +1,6 @@
-## World Cupe 2014 - Game listing Web Application
+## World Cup 2014 - Game listing Web Application
+JS + HTML site that lists the games of the day and the total number of games during the World Cup 2014.
+
 
 ## Screenshots
 
